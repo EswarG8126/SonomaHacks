@@ -1,0 +1,16 @@
+Create a blog - utilize HTML, CSS, and Javascript to create this & best way to show both your creative and technical skills in one project
+Perform data visualization - use Python to create charts, graphs, box plots, etc. to represent data of some kind
+Make a game - use Javascript to make a game that is simple and enjoyable
+Build facial recognition AI model - create a facial recognition model that is trained to recognize faces of celebrities 
+Generate weather reports - display the weather in certain areas or user-preferred location in a neat and creative way
+Build an AI Chat bot - make an AI model that answers questions and converses with you just like any other human does
+Commerce Web-site - create a miniature e-shopping web-site where a few sample products can be purchased
+Practice Test Web-site - compile practice tests of subjects/tests that you like and put them into a web-site with HTML, CSS, and Javascript
+Stock Market simulator - mimics the current state of the stock market and predicts future trends based off of past data
+Song Lyrics Word Cloud - lets user pick a song and the program generates a word cloud based on the frequency of the words
+Book Catalog - create a massive collection of popular books and when user requests a recommendation, set one out
+Movie Catalog - create a massive collection of popular movies and when user requests a recommendation, set one out
+TV Show Catalog - create a massive collection of popular TV shows and when user requests a recommendation, set one out
+Simple SMS application - make an application where you can message your friends 
+Scholarship Finder - compile a list of scholarships and user can filter out based on their requirements and find one that matches their qualifications and requirements
+Voice Recognition AI - make an AI model that essentially recognizes voices of any celebrity or any person the user feeds it
